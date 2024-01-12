@@ -1,0 +1,4 @@
+John Manager 7 8.5
+Jane Clerk 5 7.5
+Bob Supervisor 3 9.5
+Alice Technician 6 15.0

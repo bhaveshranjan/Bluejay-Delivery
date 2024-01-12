@@ -1,0 +1,5 @@
+Employee: John, Position: Manager worked for 7 consecutive days.
+Employee: John, Position: Manager has less than 10 hours between shifts but greater than 1 hour.
+Employee: Jane, Position: Clerk has less than 10 hours between shifts but greater than 1 hour.
+Employee: Bob, Position: Supervisor has less than 10 hours between shifts but greater than 1 hour.
+Employee: Alice, Position: Technician worked for more than 14 hours in a single shift.
